@@ -1,0 +1,11 @@
+D:\projects\DelegateAPP\DelegateAPP\bin\Debug\DelegateAPP.exe.config
+D:\projects\DelegateAPP\DelegateAPP\bin\Debug\DelegateAPP.exe
+D:\projects\DelegateAPP\DelegateAPP\bin\Debug\DelegateAPP.pdb
+D:\projects\DelegateAPP\DelegateAPP\obj\Debug\DelegateAPP.csprojResolveAssemblyReference.cache
+D:\projects\DelegateAPP\DelegateAPP\obj\Debug\DelegateAPP.CriteriaUc.resources
+D:\projects\DelegateAPP\DelegateAPP\obj\Debug\DelegateAPP.Properties.Resources.resources
+D:\projects\DelegateAPP\DelegateAPP\obj\Debug\DelegateAPP.ResultUc.resources
+D:\projects\DelegateAPP\DelegateAPP\obj\Debug\DelegateAPP.csproj.GenerateResource.Cache
+D:\projects\DelegateAPP\DelegateAPP\obj\Debug\DelegateAPP.exe
+D:\projects\DelegateAPP\DelegateAPP\obj\Debug\DelegateAPP.pdb
+D:\projects\DelegateAPP\DelegateAPP\obj\Debug\DelegateAPP.SearchForm.resources
